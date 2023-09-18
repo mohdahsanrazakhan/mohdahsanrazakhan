@@ -35,7 +35,7 @@
 
 ## Projects 🌐
 #### 🔍 GitHub Profile Search
-[GitHub Profile Search](https://search-github-user-profile.netlify.app/) is a React App. You can search your, your friends, and other geeks profile to get GitHub inforamtion in one screen.<br/>
+[GitHub Profile Search](https://search-github-user-profile.netlify.app/) is a React App. You can search your, your friends, and other geeks profile to get GitHub information in one screen.<br/>
 GitHub [Repo](https://github.com/mohdahsanrazakhan/GitHub-Profile-Search)
 ##### Tech Stack
 <p align="left">
