@@ -29,7 +29,7 @@
 ## Talking about Personal Stuffs 📑
 
 - 👨‍💻 I'm a passionate **Frontend Developer**, and a **self-taught developer**. Dedicated to crafting pixel-perfect **user experiences**.
-- 🔭 I’m currently working on **React Projects (updating my project collection from Vanilla JS to React)**
+- 🔭 I’m currently working on **[ReactJS for 5 y/o](https://github.com/mohdahsanrazakhan/reactjs-for-5-yo)**. It's a simplified React documentation that anyone can easily understand. If you find this **[ReactJS for 5 y/o](https://github.com/mohdahsanrazakhan/reactjs-for-5-yo)** helpful, please consider giving a star (⭐) to this repository.
 
 <br /> 
 
