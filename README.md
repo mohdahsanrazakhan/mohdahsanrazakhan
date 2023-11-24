@@ -12,6 +12,11 @@
   <a target="_blank" href="https://mohdahsanrazakhan.github.io/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=githubpages&style=for-the-badge&logoColor=white" />
   </a>
+
+  <a target="_blank" href="https://mohdahsanrazakhan.hashnode.dev/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/mohd-ahsan-raza-khan/" target="_blank">
     <img  alt="Mark's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
