@@ -9,8 +9,8 @@
 <p align="center"><strong>Transforming ideas into reality 🚀</strong></p>
 
 <p align="center">
-  <a target="_blank" href="https://mohdahsanrazakhan.github.io/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=githubpages&style=for-the-badge&logoColor=white" />
+  <a target="_blank" href="https://heymark.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&style=for-the-badge&logoColor=white" />
   </a>
 
   <a target="_blank" href="https://mohdahsanrazakhan.hashnode.dev/" target="_blank">
