@@ -41,6 +41,15 @@
 <br /> 
 
 ## Projects 🌐
+#### 🪙 KoinX
+[KoinX](https://koinxtm.vercel.app/) is a cryptocurrency exchange platform designed to facilitate the trading of various digital assets.<br/>
+GitHub [Repo](https://github.com/mohdahsanrazakhan/KoinX)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Ract JS" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" />
+</p>
+
 #### 🔍 GitHub Profile Search
 [GitHub Profile Search](https://search-github-user-profile.netlify.app/) is a React App. You can search your, your friends, and other geeks profile to get GitHub information in one screen.<br/>
 GitHub [Repo](https://github.com/mohdahsanrazakhan/GitHub-Profile-Search)
