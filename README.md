@@ -193,4 +193,5 @@ GitHub [Repo](https://github.com/mohdahsanrazakhan/reactjs-for-5-yo)
 ### Top Contributed Repo 🔝
 ![](https://github-contributor-stats.vercel.app/api?username=mohdahsanrazakhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=24&pause=1000&color=c5d1de&vCenter=true&random=false&width=471&lines=Alhamdulillah+%E2%98%9D%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=24&pause=1000&color=c5d1de&vCenter=true&random=false&width=471&lines=Alhamdulillah)](https://git.io/typing-svg)
+<img src="https://typograssy.deno.dev/api?text=Mohd%20Ahsan%20Raza%20Khan%20&l0=2d333b&bg=22272e&frame=373e47&comment=@mohdahsanrazakhan" />
