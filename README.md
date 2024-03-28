@@ -50,6 +50,14 @@ GitHub [Repo](https://github.com/mohdahsanrazakhan/KoinX)
   <img src="https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" />
 </p>
 
+#### 🛒 Applianceify
+[Applianceify](https://applianceify.netlify.app/) is a seamless eCommerce cart; responsive design for effortless product addition; optimized for all devices.<br/>
+GitHub [Repo](https://github.com/mohdahsanrazakhan/eCommerce-Cart)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Ract JS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
 #### 🔍 GitHub Profile Search
 [GitHub Profile Search](https://search-github-user-profile.netlify.app/) is a React App. You can search your, your friends, and other geeks profile to get GitHub information in one screen.<br/>
 GitHub [Repo](https://github.com/mohdahsanrazakhan/GitHub-Profile-Search)
