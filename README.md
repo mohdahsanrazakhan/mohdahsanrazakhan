@@ -102,6 +102,8 @@ GitHub [Repo](https://github.com/mohdahsanrazakhan/WAL-api)
 </p>
 
 #### 📂 Project Collection
+***Note: I have updated this project on ⚛️ ReactJS you may also look it here -> [Project Grid](https://myprojectgrid.netlify.app/)***
+
 [Project Collection](https://project-collection.netlify.app/) is a comprehensive showcase of my web development skills featuring a collection of web applications built using HTML, CSS, Tailwind CSS, JavaScript, and various APIs to enhance functionality and user experience.<br/>
 GitHub [Repo](https://github.com/mohdahsanrazakhan/Projects-Gallery)
 ##### Tech Stack
