@@ -5,8 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdahsanrazakhan&label=Profile%20views&color=0e75b6&style=flat" alt="mohdahsanrazakhan" /> </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Mohd Ahsan Raza Khan (a.k.a MARK)</h1>
-<p align="center"><strong>Transforming ideas into reality 🚀</strong></p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="36" height="36" /> I'm Mohd Ahsan Raza Khan (a.k.a MARK)</h1>
+<p align="center"><strong>Transforming ideas into reality <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /></strong></p>
+</div>
 
 <p align="center">
   <a target="_blank" href="https://heymark.vercel.app/" target="_blank">
@@ -205,3 +206,9 @@ GitHub [Repo](https://github.com/mohdahsanrazakhan/reactjs-for-5-yo)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=24&pause=1000&color=c5d1de&vCenter=true&random=false&width=471&lines=Alhamdulillah)](https://git.io/typing-svg)
 <img src="https://typograssy.deno.dev/api?text=Mohd%20Ahsan%20Raza%20Khan%20&l0=2d333b&bg=22272e&frame=373e47&comment=@mohdahsanrazakhan" />
+
+| References    |      Links      |
+|---------------|:---------------:|
+|    Animated Icons   |   [Click Here](animated-fluent-emoji.vercel.app)  |
+|    col 2 is   |     centered    |
+|    col 3 is   |  right-aligned  |
