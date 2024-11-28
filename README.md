@@ -210,5 +210,3 @@ GitHub [Repo](https://github.com/mohdahsanrazakhan/reactjs-for-5-yo)
 | References    |      Links      |
 |---------------|:---------------:|
 |    Animated Icons   |   [Click Here](animated-fluent-emoji.vercel.app)  |
-|    col 2 is   |     centered    |
-|    col 3 is   |  right-aligned  |
