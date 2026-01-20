@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a target="_blank" href="https://heymark.vercel.app/" target="_blank">
+  <a target="_blank" href="https://mohdahsanrazakhan.com/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&style=for-the-badge&logoColor=white" />
   </a>
 
