@@ -29,6 +29,8 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quotes" objectFit="contain" />
+
+<img src="https://camo.githubusercontent.com/c4740a4cecee0b4a7b67cb57393d1d54b5cb65d4879e025251ad74fb18899bb0/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f6267436f6c6f723d2532333037336234632674657874436f6c6f723d2532333036643661302661436f6c6f723d25323330366436613026626f72646572436f6c6f723d253233303664366130" alt="Random Dev Jokes" objectFit="contains" />
 </div>
 
 ## Talking about Personal Stuffs 📑
