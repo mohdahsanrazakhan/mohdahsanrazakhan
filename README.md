@@ -90,18 +90,6 @@ GitHub [Repo](https://github.com/mohdahsanrazakhan/CodeClauseInternship_ProjectN
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
 </p>
 
-#### 💪 WAL-api
-[WAL-api](https://wal-api.onrender.com/) is a collection of World Armwrestling League API provide WAL ELITES in JSON format.<br/>
-GitHub [Repo](https://github.com/mohdahsanrazakhan/WAL-api)
-##### Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" />
-  <img src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON&badgeColor=010101&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-</p>
-
 #### 📂 Project Collection
 ***Note: I have updated this project on ⚛️ ReactJS you may also look it here -> [Project Grid](https://myprojectgrid.netlify.app/)***
 
