@@ -104,15 +104,6 @@ GitHub [Repo](https://github.com/mohdahsanrazakhan/Projects-Gallery)
   <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-#### ⚛️ React for 5 y/o
-[React for 5 y/o](https://github.com/mohdahsanrazakhan/reactjs-for-5-yo) is a comprehensive guide to understand React (its core concepts), the JavaScript library for building modern, dynamic user interfaces. If you find this ReactJS for 5 y/o helpful, please consider giving a star (⭐) to this repository.
-GitHub [Repo](https://github.com/mohdahsanrazakhan/reactjs-for-5-yo)
-##### Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
 
 <br />
 
