@@ -172,11 +172,6 @@ GitHub [Repo](https://github.com/mohdahsanrazakhan/Projects-Gallery)
 
 <br />
 
-
-### Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=mohdahsanrazakhan&show_icons=true&theme=dark&hide_border=false&&count_private=true&include_all_commits=true)<br/>
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdahsanrazakhan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### GitHub Streaks 🔥
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mohdahsanrazakhan&theme=dark&hide_border=falsedate_format=j%20M%5B%20Y%5D)
 
