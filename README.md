@@ -172,8 +172,10 @@ GitHub [Repo](https://github.com/mohdahsanrazakhan/Projects-Gallery)
 
 <br />
 
+<!--
 ### GitHub Streaks 🔥
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mohdahsanrazakhan&theme=dark&hide_border=falsedate_format=j%20M%5B%20Y%5D)
+-->
 
 ### Top Contributed Repo 🔝
 ![](https://github-contributor-stats.vercel.app/api?username=mohdahsanrazakhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
