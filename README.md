@@ -79,6 +79,7 @@ GitHub [Repo](https://github.com/mohdahsanrazakhan/Trivia-Genius)
   <img src="https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" />
 </p>
 
+<!--
 #### 💬 HangOut - Chat App
 [HangOut](https://hangout-jkcg.onrender.com/) is a simple chat app with a messaging feature. I created it to gain a better understanding of how socket.io works.<br/>
 GitHub [Repo](https://github.com/mohdahsanrazakhan/CodeClauseInternship_ProjectName/tree/main/HangOut)
@@ -89,6 +90,7 @@ GitHub [Repo](https://github.com/mohdahsanrazakhan/CodeClauseInternship_ProjectN
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101&logoColor=white" alt="Socket.io" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
 </p>
+-->
 
 #### 📂 Project Collection
 ***Note: I have updated this project on ⚛️ ReactJS you may also look it here -> [Project Grid](https://myprojectgrid.netlify.app/)***
